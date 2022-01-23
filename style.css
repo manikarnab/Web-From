@@ -1,0 +1,23 @@
+*{
+    margin: 8px;
+    padding: 5px;
+    background-color: rgb(207, 235, 224);
+}
+
+.outside{
+    background-color: #343431;
+}
+
+.contain2 {
+    font-size: 132%;
+}
+
+.gender{
+    font-size: 2px;
+}
+
+button{
+   color: white;
+   background-color: red;
+}
+
